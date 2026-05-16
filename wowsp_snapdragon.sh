@@ -402,7 +402,7 @@ echo "Cloning modules with locked commits (this may take a few minutes)..."
 MODULES=(
     "https://github.com/azerothcore/mod-1v1-arena.git 29748fe1cd20001d97034f533a42c034d822fc7b"
     "https://github.com/azerothcore/mod-account-achievements.git bfbe3677635feeef823057964e028e023633115a"
-    "https://github.com/azerothcore/mod-ah-bot.git 4856a07982529fcc331f23f6777e44ae028455a9"
+    "https://github.com/duall/mod-ah-bot.git 4856a07982529fcc331f23f6777e44ae028455a9"
     "https://github.com/azerothcore/mod-auto-revive.git ce5ca7a600dbef0dec48dc6da42d374d08d6b728"
     "https://github.com/azerothcore/mod-autobalance.git 37455446fe99f073e4a6113987e3228705054639"
     "https://github.com/azerothcore/mod-better-item-reloading.git ab4fa9dc28e146e2f0730e989af2c025fac85dd5"
